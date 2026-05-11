@@ -21,7 +21,7 @@
 5. Navigate to the extracted folder
 6. Double-click to run the executable
 
-## ⚡ Features
+## ⚡ Features:
 
 - **Latest 2026 Version** - Updated with newest enhancements
 - **Easy Setup** - No complex installation required
